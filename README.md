@@ -13,4 +13,4 @@ I am passionate about AI, Embedded Systems, and real-time applications.
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Algorithms%20%26%20Data%20Structures-blue?style=for-the-badge)
