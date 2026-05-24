@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Sudipan Sarkar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Python+Learner;DSA+Enthusiast;Future+Developer&center=true&width=500&height=50">
+</p>
+
 <h1><strong>💫 About Me </strong></h1>
 <hr style="border: 1px solid #444;">
 
